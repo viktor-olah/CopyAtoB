@@ -1,0 +1,10 @@
+D:\Git\CopyAtoB\CopyAtoB\bin\Debug\CopyAtoB.exe.config
+D:\Git\CopyAtoB\CopyAtoB\bin\Debug\CopyAtoB.exe
+D:\Git\CopyAtoB\CopyAtoB\bin\Debug\CopyAtoB.pdb
+D:\Git\CopyAtoB\CopyAtoB\obj\Debug\CopyAtoB.csproj.AssemblyReference.cache
+D:\Git\CopyAtoB\CopyAtoB\obj\Debug\CopyAtoB.Form1.resources
+D:\Git\CopyAtoB\CopyAtoB\obj\Debug\CopyAtoB.Properties.Resources.resources
+D:\Git\CopyAtoB\CopyAtoB\obj\Debug\CopyAtoB.csproj.GenerateResource.cache
+D:\Git\CopyAtoB\CopyAtoB\obj\Debug\CopyAtoB.csproj.CoreCompileInputs.cache
+D:\Git\CopyAtoB\CopyAtoB\obj\Debug\CopyAtoB.exe
+D:\Git\CopyAtoB\CopyAtoB\obj\Debug\CopyAtoB.pdb
